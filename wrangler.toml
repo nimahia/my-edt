@@ -1,8 +1,8 @@
-name = "wilson"
+name = "newedt2"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
 [[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
-id = "0ef466035d1a4ccd98656efd0c3fee96"				#KV数据库id
+id = "8eb0a531e8334e58bc4134474aaab855"				#KV数据库id
